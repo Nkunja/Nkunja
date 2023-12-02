@@ -1,18 +1,49 @@
-const Nkunja = {
-  pronouns: "He" | "Him",
-  contacts: "munene01denis@gmail.com",
-  askMeAbout: ["web dev", "app dev"],
-  code: [Javascript, Python, HTML, CSS ],
-  technologies: {
-      frontEnd: {
-          js: ["React", "Next"],
-          css: ["bootstrap", "tailwind", "material-ui"]
-      },
-      backEnd: ["Python", "PHP", "Node js, Express js & Nest js"],
-      frameWork: ["Laravel", "Django" ],
-      mobileDev: ["Flutter", "Kotlin"],
-      databases: ["MySql", "Mongo DB",  "firebase"],
-  },
-   architecture: ["Serverless Architecture", "microservices", "Single page applications"],
-   ]
-};
+# Hi there! 👋
+
+I'm Nkunja 👨‍💻
+
+## About Me
+
+- Pronouns: He/Him
+- 📫 How to reach me: munene01denis@gmail.com
+- 💬 Ask me about: Web development, App development
+
+## Skills and Technologies
+
+### Programming Languages
+- JavaScript
+- Python
+- HTML
+- CSS
+
+### Frontend
+- React.js
+- Next.js
+- Bootstrap
+- Tailwind CSS
+- Material-UI
+
+### Backend
+- Python
+- Node.js (Express.js & Nest.js)
+- Flask
+- Django
+
+### Mobile Development
+- React Native
+- Kotlin
+
+### Databases
+- MySQL
+- MongoDB
+- Firebase
+- PostgreSQL
+
+### Architecture
+- Serverless Architecture
+- Microservices
+- Single Page Applications
+
+## Get in Touch
+
+- 📧 Email: munene01denis@gmail.com
