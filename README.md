@@ -10,6 +10,7 @@ I'm Nkunja 👨‍💻
 
 ## Skills and Technologies
 
+<!-- First Row -->
 ### Programming Languages
 - JavaScript
 - Python
@@ -29,6 +30,7 @@ I'm Nkunja 👨‍💻
 - Flask
 - Django
 
+<!-- Second Row -->
 ### Mobile Development
 - React Native
 - Kotlin
@@ -47,3 +49,6 @@ I'm Nkunja 👨‍💻
 ## Get in Touch
 
 - 📧 Email: munene01denis@gmail.com
+
+## Portfolio
+- [Portfolio](https://your-portfolio-url.com)
