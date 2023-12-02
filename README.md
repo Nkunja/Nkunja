@@ -10,6 +10,9 @@ I'm Nkunja 👨‍💻
 
 ## Skills and Technologies
 
+<details>
+  <summary>First Row</summary>
+
 ### Programming Languages
 - JavaScript
 - Python
@@ -28,6 +31,10 @@ I'm Nkunja 👨‍💻
 - Node.js (Express.js & Nest.js)
 - Flask
 - Django
+</details>
+
+<details>
+  <summary>Second Row</summary>
 
 ### Mobile Development
 - React Native
@@ -43,7 +50,11 @@ I'm Nkunja 👨‍💻
 - Serverless Architecture
 - Microservices
 - Single Page Applications
+</details>
 
 ## Get in Touch
 
 - 📧 Email: munene01denis@gmail.com
+
+## Portfolio
+- [Portfolio](https://nkunjadenis.vercel.app)
