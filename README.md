@@ -10,7 +10,9 @@ I'm Nkunja 👨‍💻
 
 ## Skills and Technologies
 
-<!-- First Row -->
+<details>
+  <summary>First Row</summary>
+
 ### Programming Languages
 - JavaScript
 - Python
@@ -29,8 +31,11 @@ I'm Nkunja 👨‍💻
 - Node.js (Express.js & Nest.js)
 - Flask
 - Django
+</details>
 
-<!-- Second Row -->
+<details>
+  <summary>Second Row</summary>
+
 ### Mobile Development
 - React Native
 - Kotlin
@@ -45,6 +50,7 @@ I'm Nkunja 👨‍💻
 - Serverless Architecture
 - Microservices
 - Single Page Applications
+</details>
 
 ## Get in Touch
 
