@@ -48,7 +48,7 @@
 <br/>
 <p align="center">
         <h3> Nkunja's Contributions <h3/>
-    <a href="https://github.com/Nkunja/github-readme-streak-stats"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nkunja's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1Nelsonel&theme=radical&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/Nkunja/github-readme-streak-stats"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nkunja's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Nkunja&theme=radical&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 
 <br/>
