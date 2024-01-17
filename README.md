@@ -10,7 +10,6 @@
 - 📫 How to reach me: munene01denis@gmail.com
 - 😄 Pronouns: He/Him
 <hr>
-<hr>
 
 ### Languages and Framework
 <p align="left"> 
@@ -35,12 +34,7 @@
 
  </p>
 
-
-
 <hr>
-<hr>
-
-
 
 ## 📊 My Github Stats
 
