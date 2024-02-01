@@ -4,7 +4,7 @@
 **Nkunja** ✨ _Quick Details_ ✨ 
 
 - 🔭 I’m currently working with Django Python
-- 👯 I’m looking to collaborate on NodeJS, React.js projects
+- 👯 I’m looking to collaborate on Django, React.js projects
 - - 🌱 I’m currently learning React Native
 - 💬 Ask me about Full Stack web development
 - 📫 How to reach me: munene01denis@gmail.com
