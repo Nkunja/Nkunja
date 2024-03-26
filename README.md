@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning React Native, Flutter
 - 💬 Ask me about Full Stack web development
 - 📫 How to reach me: munene01denis@gmail.com
-- 😄 Pronouns: He/Him
+  
 <hr>
 
 ### Languages and Framework
