@@ -9,9 +9,9 @@
 
 ## 🚀 Quick Facts
 
-- 🔭 Currently working with **Nest.js** (Node.js)
+- 🔭 Currently working with **Nest.js** (Node.js) and **Django**
 - 👯 Looking to collaborate on **Django** and **Nest.js** projects
-- 🌱 Experienced in **React**, **React Native** and **Next.js**
+- 🌱 Experienced in **Python**, **Typescript** and **Javascript** (**Reactjs React Native Nextjs**)
 - 📫 Reach me at: [munene01denis@gmail.com](mailto:munene01denis@gmail.com)
 
 ## 🛠️ Languages and Tools
