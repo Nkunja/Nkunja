@@ -26,9 +26,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nkunja&theme=radical&hide_border=true&stroke=0000&background=060A0CD0" alt="Nkunja's streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nkunja&theme=shadow_blue&layout=compact" alt="Top Languages" />
-</p>
 
 ## 🌱 Contributions
 
