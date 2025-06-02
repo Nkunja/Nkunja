@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hello, I'm Nkunja</h1>
-<h3 align="center">A Passionate Software Engineer</h3>
+<h1 align="center">👋 Hello, I am Nkunja Denis</h1>
+<h3 align="center">A Software Engineer</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Nest.js-red?style=for-the-badge&logo=nestjs" alt="Nest.js">
