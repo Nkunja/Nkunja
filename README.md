@@ -12,7 +12,7 @@
 - 🔭 Currently working with **Nest.js** (Node.js) and **Django**
 - 👯 Looking to collaborate on **Django** and **Nest.js** projects
 - 🌱 Experienced in **Python**, **Typescript** and **Javascript** (**Reactjs React Native Nextjs**)
-- 📫 Reach me at: [munene01denis@gmail.com](mailto:munene01denis@gmail.com)
+- 📫 Reach me at: [hello@sirnkunja.co.ke](mailto:hello@sirnkunja.co.ke)
 
 ## 🛠️ Languages and Tools
 
