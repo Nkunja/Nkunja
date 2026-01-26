@@ -14,25 +14,6 @@
 - 🌱 Experienced in **Python**, **Typescript** and **Javascript** (**Reactjs React Native Nextjs**)
 - 📫 Reach me at: [hello@sirnkunja.co.ke](mailto:hello@sirnkunja.co.ke)
 
-## 🛠️ Languages and Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,expressjs,bootstrap,css,django,docker,git,heroku,html,vue,react,postgres,mongo,firebase,nextjs,aws,nestjs&perline=9" />
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nkunja&theme=radical&hide_border=true&stroke=0000&background=060A0CD0" alt="Nkunja's streak" />
-</p>
-
-
-## 🌱 Contributions
-
-<p align="center">
-  <img src="contributions.svg" alt="Contributions Graph" />
-</p>
-
 <p align="center">
   <i>Let's connect and build something amazing together!</i>
 </p>
